@@ -16,3 +16,7 @@
 - L'app ne fait pas juste des routines : elle doit **métamorphoser complètement** l'utilisatrice (tout le glow up).
 - Budget outils : **0 €/mois**. Gratuit uniquement.
 - Mémoire partagée : on garde tout dans ce repo GitHub (gratuit). Obsidian/VPS = plus tard, seulement si gratuit.
+
+## En attente (chat 1)
+- Questions à reposer plus tard : périmètre métamorphose de l'app, ebook best-seller, fréquence de posts, objectifs 6 mois / 2 ans.
+- Priorité immédiate : configurer des agents pour automatiser ses tâches quotidiennes (elle envoie le prompt).
