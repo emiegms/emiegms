@@ -11,3 +11,8 @@
 - 3 mois : 3 000 €/mois
 - 1 an : app glow up avec des milliers d'utilisatrices
 - App : programme glow up guidé (routines, suivi, progression jour par jour)
+
+## Corrections (chat 1)
+- L'app ne fait pas juste des routines : elle doit **métamorphoser complètement** l'utilisatrice (tout le glow up).
+- Budget outils : **0 €/mois**. Gratuit uniquement.
+- Mémoire partagée : on garde tout dans ce repo GitHub (gratuit). Obsidian/VPS = plus tard, seulement si gratuit.

@@ -19,7 +19,7 @@
 - **Chaque semaine** : page web locale "Belief System" (`belief-system/index.html`) générée à partir de tous les fichiers .md. Style Hormozi, ultra concis. Pour chaque croyance : boutons **Vrai / Faux / À changer** (+ champ texte si "À changer"). Quand elle a fini, elle écrit **go** dans le chat → je mets à jour tous les fichiers.
 
 ## Mémoire partagée entre chats
-- Source de vérité : vault Obsidian (sur VPS, via MCP) + ce repo. Au début de chaque chat : je relis `memoire/`. À la fin / à chaque info importante : j'écris dedans.
+- Source de vérité (gratuit, budget 0 €) : ce repo GitHub `emiegms/emiegms`, dossier `memoire/`. Obsidian/VPS plus tard si gratuit. Au début de chaque chat : je relis `memoire/`. À chaque info importante : j'écris dedans.
 - Elle ne redonne jamais une clé API : elles vont dans le coffre (variables d'environnement / vault), jamais dans le chat.
 
 ## Premier objectif
