@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Belief System – Émia</title>
+<style>
+body{font-family:system-ui,sans-serif;max-width:640px;margin:24px auto;padding:0 16px;background:#fff7fa;color:#222}
+h1{font-size:28px}.c{background:#fff;border-radius:14px;padding:16px;margin:14px 0;box-shadow:0 2px 8px #0001}
+button{border:0;border-radius:10px;padding:10px 16px;margin:6px 6px 0 0;font-size:16px;cursor:pointer;background:#eee}
+button.on{background:#e91e8c;color:#fff}input{width:100%;padding:10px;margin-top:8px;font-size:16px;display:none;box-sizing:border-box}
+#out{white-space:pre-wrap;background:#222;color:#fff;padding:12px;border-radius:10px;display:none}
+</style></head><body>
+<h1>Ce que je crois de toi</h1>
+<p>Vrai, Faux ou À changer. Puis écris <b>go</b> dans le chat.</p>
+<div id="list"></div>
+<button class="on" onclick="done()">Terminé</button>
+<p id="out"></p>
+<script>
+const B=[
+"Tu veux passer du contenu + ebooks à une app comme prochain gros levier",
+"Tu préfères la vitesse à la perfection",
+"Ton objectif à 3 mois : 3 000 €/mois",
+"Ton app doit métamorphoser complètement, pas juste donner des routines",
+"Budget outils : 0 €/mois, gratuit uniquement"];
+const A={};
+const L=document.getElementById('list');
+B.forEach((t,i)=>{const d=document.createElement('div');d.className='c';
+d.innerHTML=`<b>${t}</b><br>`+["Vrai","Faux","À changer"].map(v=>`<button data-i="${i}" data-v="${v}">${v}</button>`).join('')+`<input placeholder="Dis-moi quoi changer" data-t="${i}">`;L.appendChild(d)});
+L.onclick=e=>{const b=e.target;if(!b.dataset.v)return;const i=b.dataset.i;A[i]=b.dataset.v;
+b.parentNode.querySelectorAll('button').forEach(x=>x.classList.toggle('on',x===b));
+b.parentNode.querySelector('input').style.display=b.dataset.v=="À changer"?'block':'none'};
+function done(){const o=document.getElementById('out');o.style.display='block';
+o.textContent=B.map((t,i)=>`${A[i]||'?'} – ${t}`+(A[i]=="À changer"?` → ${document.querySelector(`[data-t="${i}"]`).value}`:'')).join('\n')+"\n\nCopie ça dans le chat, puis écris : go"}
+</script></body></html>
