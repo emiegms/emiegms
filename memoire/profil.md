@@ -42,4 +42,4 @@
 ## Signature DA (validée 12/10/2026)
 - Palette : **beige + brun chocolat** (remplace ivoire/noir/doré des concepts). Bleu Respire Naturel = accent unique pour cette collab.
 - Ton à l'écran : **silencieuse, voix off douce**.
-- Signature récurrente : **une phrase de fin** (à choisir).
+- Signature récurrente : phrase de fin **« Choisis-toi. Encore. »** (en texte à la fin de chaque vidéo/carrousel).
