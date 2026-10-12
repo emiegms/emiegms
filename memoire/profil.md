@@ -68,3 +68,4 @@
 - À faire : lien systeme.io, choisir le bonus, aucun faux témoignage. Chrome indisponible en session cloud → chiffres systeme.io à lire sur ordi.
 - Bonus FINAL (12/10) : **Défi Cheveux 7 jours** (Notion). Raison : ebooks analysés, ils contiennent déjà trackers/journal/défi 30 j/checklists. Cheveux, garde-robe, photo, maquillage = absents. Fichier : `ventes/bonus-defi-cheveux.md`.
 - Défi Cheveux v2 (plan 3 mois, page Notion) **validé "ok" le 12/10**. Reste : publier la page (duplication autorisée) + lien pack systeme.io.
+- Lien public du défi cheveux enregistré dans `ventes/bonus-defi-cheveux.md` (12/10). Manque : lien pack systeme.io.
