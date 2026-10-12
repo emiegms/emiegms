@@ -66,4 +66,4 @@
 ## Page de vente (chat 3, 12/10/2026)
 - Brouillon créé : `ventes/octobre-rose-pack.html` (pack 70 €, beige/chocolat, « Choisis-toi. Encore. »).
 - À faire : lien systeme.io, choisir le bonus, aucun faux témoignage. Chrome indisponible en session cloud → chiffres systeme.io à lire sur ordi.
-- Bonus (12/10, corrigé 2x) : **mini tracker Notion 7 jours** (nouveau, pas dans les ebooks, pas un gros ebook). Détail : `ventes/bonus-tracker-notion.md`.
+- Bonus FINAL (12/10) : **Défi Cheveux 7 jours** (Notion). Raison : ebooks analysés, ils contiennent déjà trackers/journal/défi 30 j/checklists. Cheveux, garde-robe, photo, maquillage = absents. Fichier : `ventes/bonus-defi-cheveux.md`.
