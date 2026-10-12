@@ -70,3 +70,4 @@
 - Défi Cheveux v2 (plan 3 mois, page Notion) **validé "ok" le 12/10**. Reste : publier la page (duplication autorisée) + lien pack systeme.io.
 - Lien public du défi cheveux enregistré dans `ventes/bonus-defi-cheveux.md` (12/10). Manque : lien pack systeme.io.
 - systeme.io : ebooks dans **Tunnels de vente** (pas dans Produits). Pack 70 € à créer dans un tunnel ; nécessite Chrome sur son ordinateur (pas dispo en session cloud).
+- Lien pack systeme.io (12/10) : https://5f5e-contact.systeme.io/51b822e3 — mis dans la page de vente. À vérifier : c'est bien le pack à 70 €.
