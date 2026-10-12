@@ -56,3 +56,9 @@
 - **Pack ÉMIA Method** (Sport + Nutrition + Mindset) : **70 €** en promo (valeur 166 €).
 - Maths : 500 € ≈ 7 packs · 1 000 € ≈ 14 à 15 packs. Objectif très atteignable avec ~15 ventes du pack.
 - Choix : **1 Reel par jour** jusqu'au 31/10 (l'avocat du diable avait alerté sur la charge). Objectif vues affiché : **500k, 1 M en bonus**.
+
+## Concours Steel (règles, 12/10/2026)
+- Lot : **carte cadeau de 200 €** offerte par Steel (Octobre Rose).
+- Participer : abonné à @steelsaintetienne ET @emiegms · liker le post · identifier ses amis en commentaire.
+- **Résultat le 20 octobre.** Lancement le 14/10 à 12h.
+- À obtenir de Steel : règlement écrit + méthode de tirage au sort. Mention "Collaboration commerciale" sur le post.
