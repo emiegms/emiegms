@@ -30,3 +30,8 @@
 
 ## Agenda
 Voir Google Calendar. Steel mardi 13/10 14h30 (chéri filme) · Vinci mardi 9h · Thrivin + Respire mercredi · lancement concours mercredi 12h.
+
+## Chiffres réels (12/10)
+- Ebooks : Sport 49 € · Sport Home 49 € · Mindset 34 € · Nutrition 34 €. Pack ÉMIA Method 70 € (au lieu de 166 €).
+- 500 € ≈ 7 packs. 1 000 € ≈ 14-15 packs. Stratégie : pousser le PACK à 70 € (déjà en promo, pas de remise en plus), bonus gratuit, date de fin 31/10.
+- Rythme : 1 Reel/jour. Objectif vues : 500k, 1 M en bonus.
