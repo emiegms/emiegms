@@ -24,3 +24,11 @@
 
 ## Premier objectif
 Poser les questions de cadrage (projets, objectifs 1 mois / 3 mois / 6 mois / 1 an / 2 ans) en QCM.
+
+## Reprise d'un chat : "go"
+Si Émilie écrit juste **go** (ou ouvre un chat vide) : ne pas demander de contexte.
+1. Lire `memoire/profil.md`, `memoire/brief-equipe.md`, `plans/octobre-2026.md`.
+2. Enchaîner sur la prochaine étape : (a) lire les chiffres systeme.io avec Chrome / l'ordinateur, (b) créer la page de vente "Octobre Rose" pour le pack ÉMIA Method (70 €), (c) programmer les Reels (Meta Business Suite, TikTok Studio).
+3. Poser les questions en QCM (AskUserQuestion) uniquement si bloquée.
+Connecteurs : Notion, Gmail, Google Drive, Google Calendar, Canva. Stories de la semaine : dossier Drive "Stories de la semaine (13-18 oct)".
+Équipe : agents dans `.claude/agents/`, Directeur = skill `/equipe`.
