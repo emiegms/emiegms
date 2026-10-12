@@ -43,3 +43,10 @@
 - Palette : **beige + brun chocolat** (remplace ivoire/noir/doré des concepts). Bleu Respire Naturel = accent unique pour cette collab.
 - Ton à l'écran : **silencieuse, voix off douce**.
 - Signature récurrente : phrase de fin **« Choisis-toi. Encore. »** (en texte à la fin de chaque vidéo/carrousel).
+
+## Corrections et objectifs (12/10/2026, chat 2)
+- **Aucune collab n'est rémunérée** (produits offerts uniquement). Ne jamais écrire "collab payée".
+- Steel : tournage **mardi 13/10 à 14h30** (le chéri filme). Lancement du concours **mercredi 14/10**. Montant du concours : **200 €** (pas 250).
+- Objectifs **octobre 2026** : 500 à 1 000 € de CA ÉMIA · 1 M de vues sur Instagram · plus de visibilité Instagram + TikTok + Snapchat.
+- Elle veut que **tout soit préparé** cette semaine (stories rangées dans un dossier, prêtes à poster). Les agents décident et lui disent quoi faire. Elle valide par "ok".
+- Disponibilité du chéri : mardi 13/10.
