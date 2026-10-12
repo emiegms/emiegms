@@ -1,4 +1,8 @@
 # Croyances (à valider chaque semaine)
 
-- [ ] Elle veut passer du contenu+ebooks à une app comme prochain gros levier
-- [ ] Elle préfère la vitesse à la perfection
+## Validées (12/10/2026)
+- [x] Elle veut passer du contenu+ebooks à une app comme prochain gros levier → VRAI
+- [x] Elle préfère la vitesse à la perfection → VRAI
+
+## À valider
+(aucune pour l'instant)

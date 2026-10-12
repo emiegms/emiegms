@@ -62,3 +62,7 @@
 - Participer : abonné à @steelsaintetienne ET @emiegms · liker le post · identifier ses amis en commentaire.
 - **Résultat le 20 octobre.** Lancement le 14/10 à 12h.
 - À obtenir de Steel : règlement écrit + méthode de tirage au sort. Mention "Collaboration commerciale" sur le post.
+
+## Confirmé par Émia (12/10/2026)
+- L'app est son prochain gros levier (après contenu + ebooks).
+- Elle préfère la vitesse à la perfection : livrer vite, itérer.
