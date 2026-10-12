@@ -66,4 +66,4 @@
 ## Page de vente (chat 3, 12/10/2026)
 - Brouillon créé : `ventes/octobre-rose-pack.html` (pack 70 €, beige/chocolat, « Choisis-toi. Encore. »).
 - À faire : lien systeme.io, choisir le bonus, aucun faux témoignage. Chrome indisponible en session cloud → chiffres systeme.io à lire sur ordi.
-- Bonus (12/10, corrigé) : **Défi Glow Up 7 jours**, 1 page, 1 action/jour. PAS un gros ebook. Fichier : `ventes/bonus-defi-7-jours.md`.
+- Bonus (12/10, corrigé 2x) : **mini tracker Notion 7 jours** (nouveau, pas dans les ebooks, pas un gros ebook). Détail : `ventes/bonus-tracker-notion.md`.
