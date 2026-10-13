@@ -71,3 +71,9 @@
 - Lien public du défi cheveux enregistré dans `ventes/bonus-defi-cheveux.md` (12/10). Manque : lien pack systeme.io.
 - systeme.io : ebooks dans **Tunnels de vente** (pas dans Produits). Pack 70 € à créer dans un tunnel ; nécessite Chrome sur son ordinateur (pas dispo en session cloud).
 - Lien pack systeme.io (12/10) : https://5f5e-contact.systeme.io/51b822e3 — mis dans la page de vente. À vérifier : c'est bien le pack à 70 €.
+
+## Corrections (13/10/2026)
+- **Ne plus utiliser la phrase « Choisis-toi. Encore. »** (stop demandé par Émia). Remplace l'ancienne signature DA.
+- Cadeau annoncé en story le 13/10 : Défi Cheveux offert avec Pack ÉMIA Method ET ÉMIA Body Home (49 €). Lien Body Home manquant.
+- Reel concours Steel : sort **mercredi 14/10 à 18h** sur Instagram (avant : 12h). Montage à finir.
+- Reel lash lift : montage à finir, poste dès que fini (13/10).
