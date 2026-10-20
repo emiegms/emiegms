@@ -70,4 +70,14 @@
 - Plateformes de masse (Capafy, Influnity, Shop My Influence) et contacts via WhatsApp : prudence, ne jamais payer ni donner de papiers.
 - Pari fin d'année proposé : Pack "Glow Up 30 jours" Black Friday/Noël avec liste d'attente (40 à 60 ventes = 2 800 à 4 200 €). Puis THE ÉMIA SOCIETY bêta, puis app (tester la demande avant de la construire).
 - Charge : 1 Reel/jour choisi par Émilie, mais risque d'épuisement signalé par l'avocat du diable et le Forain.
-- Mémoire éclatée sur 3 branches GitHub (main, cool-fermi, focused-mccarthy) : fusion à faire. Objectifs 6 mois et 2 ans toujours absents.
+- Mémoire fusionnée le 20/10 (main + cool-fermi + focused-mccarthy). Objectifs 6 mois et 2 ans toujours absents.
+
+## Confirmé par Émia (12/10/2026)
+- L'app est son prochain gros levier (après contenu + ebooks).
+- Elle préfère la vitesse à la perfection : livrer vite, itérer.
+
+## Décisions du 20/10/2026 (Émilie)
+- L'équipe lance tous les chantiers : kit visuel, pack stories 19-31, suivi marques (Notion), brouillons marques, fusion mémoire. Rien n'est envoyé sans elle.
+- Pari "Pack Glow Up 30 jours" Black Friday/Noël : **plus tard, après octobre**.
+- **Tirage Steel reporté au mardi 21/10 au soir (annonce 20h)** pour garder 24 h d'interaction. À faire : prévenir Steel, annoncer la prolongation publiquement AVANT la fin annoncée (20/10) et corriger la légende (la légende promettait « résultat le 20 octobre »).
+- Chiffres : Émilie enverra des captures (stats IG 7 derniers Reels + ventes systeme.io du mois) dans le chat.
