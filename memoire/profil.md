@@ -62,3 +62,12 @@
 - Participer : abonné à @steelsaintetienne ET @emiegms · liker le post · identifier ses amis en commentaire.
 - **Résultat le 20 octobre.** Lancement le 14/10 à 12h.
 - À obtenir de Steel : règlement écrit + méthode de tirage au sort. Mention "Collaboration commerciale" sur le post.
+
+## Retour de l'équipe (20/10/2026)
+- Constat unanime : **pas de page de vente active + aucun chiffre réel** (ventes, vues, liste email) à 11 jours de la fin du mois. Chaque jour sans lien = 0 vente.
+- Concours Steel : tirage + annonce 20/10 à 12h. Mettre le pack 70 € dans la story d'annonce. Règlement écrit + méthode de tirage à valider avec Steel.
+- Collabs : **rien n'est signé = 0 € compté**. UTOPIA (seule offre rémunérée) → exiger devis écrit (cachet, nb de contenus, durée, droits). Vanessa Wu → mail partenariat payé avant le 25/10. Relances envoyées le 20/10 : UTOPIA, SHEGLAM, RENPHO. FOREO envoyé 18/10 (relance 23/10).
+- Plateformes de masse (Capafy, Influnity, Shop My Influence) et contacts via WhatsApp : prudence, ne jamais payer ni donner de papiers.
+- Pari fin d'année proposé : Pack "Glow Up 30 jours" Black Friday/Noël avec liste d'attente (40 à 60 ventes = 2 800 à 4 200 €). Puis THE ÉMIA SOCIETY bêta, puis app (tester la demande avant de la construire).
+- Charge : 1 Reel/jour choisi par Émilie, mais risque d'épuisement signalé par l'avocat du diable et le Forain.
+- Mémoire éclatée sur 3 branches GitHub (main, cool-fermi, focused-mccarthy) : fusion à faire. Objectifs 6 mois et 2 ans toujours absents.
