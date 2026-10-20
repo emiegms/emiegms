@@ -76,8 +76,8 @@
 - L'app est son prochain gros levier (après contenu + ebooks).
 - Elle préfère la vitesse à la perfection : livrer vite, itérer.
 
-## Décisions du 20/10/2026 (Émilie)
+## Décisions du 20/10/2026 (Émilie) (attention : le 21/10 est un mercredi)
 - L'équipe lance tous les chantiers : kit visuel, pack stories 19-31, suivi marques (Notion), brouillons marques, fusion mémoire. Rien n'est envoyé sans elle.
 - Pari "Pack Glow Up 30 jours" Black Friday/Noël : **plus tard, après octobre**.
-- **Tirage Steel reporté au mardi 21/10 au soir (annonce 20h)** pour garder 24 h d'interaction. À faire : prévenir Steel, annoncer la prolongation publiquement AVANT la fin annoncée (20/10) et corriger la légende (la légende promettait « résultat le 20 octobre »).
+- **Tirage Steel reporté au MERCREDI 21/10 au soir (annonce 20h)** pour garder 24 h d'interaction. À faire : prévenir Steel, annoncer la prolongation publiquement AVANT la fin annoncée (20/10) et corriger la légende (la légende promettait « résultat le 20 octobre »).
 - Chiffres : Émilie enverra des captures (stats IG 7 derniers Reels + ventes systeme.io du mois) dans le chat.
