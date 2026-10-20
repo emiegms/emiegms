@@ -32,3 +32,9 @@ Si Émilie écrit juste **go** (ou ouvre un chat vide) : ne pas demander de cont
 3. Poser les questions en QCM (AskUserQuestion) uniquement si bloquée.
 Connecteurs : Notion, Gmail, Google Drive, Google Calendar, Canva. Stories de la semaine : dossier Drive "Stories de la semaine (13-18 oct)".
 Équipe : agents dans `.claude/agents/`, Directeur = skill `/equipe`.
+
+## RÈGLE ABSOLUE : deux entités à ne JAMAIS mélanger
+- **Émilie / @emiegms** = la créatrice de contenu (Instagram, TikTok, Snapchat, YouTube). Les **collabs avec des marques** concernent UNIQUEMENT @emiegms.
+- **ÉMIA** = sa marque d'ebooks (Sport, Sport Home, Mindset, Nutrition, pack ÉMIA Method). Elle n'a **aucun rapport** avec son métier d'influenceuse.
+- Toujours dire de quelle entité on parle. Un agent « Brand Deals » parle de @emiegms, un agent « Brand & Growth » parle d'ÉMIA.
+- Note : GitHub = le coffre-fort gratuit où sont rangées la mémoire, les règles et l'équipe. Émilie n'a rien à y faire.

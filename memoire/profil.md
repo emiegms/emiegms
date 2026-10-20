@@ -81,3 +81,18 @@
 - Pari "Pack Glow Up 30 jours" Black Friday/Noël : **plus tard, après octobre**.
 - **Tirage Steel reporté au MERCREDI 21/10 au soir (annonce 20h)** pour garder 24 h d'interaction. À faire : prévenir Steel, annoncer la prolongation publiquement AVANT la fin annoncée (20/10) et corriger la légende (la légende promettait « résultat le 20 octobre »).
 - Chiffres : Émilie enverra des captures (stats IG 7 derniers Reels + ventes systeme.io du mois) dans le chat.
+
+## Chiffres réels (20/10/2026, captures d'Émilie)
+- **Instagram (30 j)** : 438 713 vues · +127 followers nets · 12 297 interactions · Stories 169K vues, Reels 158K, Publications (photos/carrousels) 109K · meilleurs contenus ≈ 30K/29K/23K/13K · 8 260 visites de profil · **205 appuis sur le lien en bio** (≈ 2,5 % des visites).
+- Audience IG : France 47,8 % · Algérie 11,1 % · Maroc 3,8 % · Belgique 2,4 % · USA 2,0 % · femmes 56,6 % · 25-34 ans 46,6 %, 18-24 ans 22,7 %, 35-44 ans 18,8 % · pic d'activité 18h et 21h (puis 15h, 12h).
+- **TikTok (28 j)** : 445,6K vues (+111,5 %) · 11,7K vues du profil · 25,4K likes · 594 commentaires · 3,7K partages · trafic « Pour toi » 64,5 %, recherche 17,7 %.
+- **Ventes ÉMIA** : 293,67 € entre le 23/09 et le 20/10. Objectif : **1 000 € de CA ÉMIA d'ici le 31/10** pour payer ses charges (même avec un nouvel ebook si besoin).
+
+## Décisions du 20/10/2026 (suite)
+- Planner PDF « Routine Glow Up 7 jours » : plus disponible → supprimé du dépôt.
+- Compte Instagram déjà Pro (Créateur). **Aucun post programmé** : on programme seulement après avoir défini la niche exacte de @emiegms et le rôle de chaque réseau (Instagram, TikTok, Snapchat, YouTube).
+- Ses photos et carrousels marchent bien : à mélanger avec les Reels (l'agent décide).
+- Collabs @emiegms : Vanessa Wu = gifting déjà lancé, on laisse (brouillon Gmail NON envoyé). **À partir de la prochaine collab : négocier du rémunéré long terme.** UTOPIA : ne rien renvoyer. Relance groupée des marques sans réponse en fin de semaine (vendredi 23/10).
+- **Demain mercredi 21/10 = journée entière dédiée à ÉMIA** (revenu récurrent + Black Friday + fin d'année, tout opérationnel le soir). Recherches de l'équipe : `plans/demain-21-oct/`.
+- Elle veut vendre ÉMIA « sans faire vendeuse de tapis », naturel, et collecter d'abord des retours de ses clientes (avis) pour les mettre sur le site.
+- Elle ne veut jamais réfléchir à quoi poster : contenu prêt à l'avance.
