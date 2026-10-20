@@ -96,3 +96,10 @@
 - **Demain mercredi 21/10 = journée entière dédiée à ÉMIA** (revenu récurrent + Black Friday + fin d'année, tout opérationnel le soir). Recherches de l'équipe : `plans/demain-21-oct/`.
 - Elle veut vendre ÉMIA « sans faire vendeuse de tapis », naturel, et collecter d'abord des retours de ses clientes (avis) pour les mettre sur le site.
 - Elle ne veut jamais réfléchir à quoi poster : contenu prêt à l'avance.
+
+## Précisions d'Émilie (20/10/2026, soir)
+- Tableau Notion renommé « Collabs marques emiegms » (sans @).
+- **Test de demande en stories = PAS pour un ebook glow up (il existe déjà).** C'est pour mesurer l'intérêt pour **plus grand : une application** (« quelque chose de dingue »), et pour choisir **un gros nouvel ebook à lancer en novembre**. Doc Drive « D (CORRIGÉ) » remplace l'ancien.
+- Ebooks existants (4) : Glow, Nutrition, Sport salle, Sport maison (à rapprocher des noms utilisés avant : Mindset ≈ Glow ?). Pack ÉMIA Method = 70 €.
+- Event reçu en DM Instagram de « chabrts_ » à ajouter à l'agenda : l'équipe ne peut pas lire les DM Instagram → Émilie doit envoyer une capture ou la date.
+- Kit média : FR (« MK FRENCH - TARIFS ») et EN existent. Copie FR en cours de mise à jour (IG 438 713 vues, audience France 47,8 %…). Lien EN dans ses mails : canva.link/kjlffdykyfq92is.
