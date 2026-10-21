@@ -103,3 +103,10 @@
 - Ebooks existants (4) : Glow, Nutrition, Sport salle, Sport maison (à rapprocher des noms utilisés avant : Mindset ≈ Glow ?). Pack ÉMIA Method = 70 €.
 - Event reçu en DM Instagram de « chabrts_ » à ajouter à l'agenda : l'équipe ne peut pas lire les DM Instagram → Émilie doit envoyer une capture ou la date.
 - Kit média : FR (« MK FRENCH - TARIFS ») et EN existent. Copie FR en cours de mise à jour (IG 438 713 vues, audience France 47,8 %…). Lien EN dans ses mails : canva.link/kjlffdykyfq92is.
+
+## Test de demande lancé (21/10/2026)
+- Émilie a posté 3 sondages dans son canal Instagram (sans révéler que c'est une app) : (1) blocage glow up, (2) "UN truc" que je te donne (guide du matin / endroit entre girls / suivi jour par jour / plan complet A à Z), (3) "tu paierais ?".
+- Lecture : choix 1 + 3 du sondage 2 = application · choix 2 = communauté (THE ÉMIA SOCIETY) · sondage 3 = intention d'achat.
+- Fait aujourd'hui : 2 stories (compte à rebours concours Steel + vidéo mascara avec lien).
+- **Point demain matin (22/10) première heure** : Émilie envoie les résultats des sondages, l'équipe décide quoi construire en premier.
+- Tirage Steel : ce soir 21/10 à 20h.
