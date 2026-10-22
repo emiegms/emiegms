@@ -29,3 +29,11 @@ Statuts : ACTIF · PÉRIMÉ · À CONFIRMER. Dernière mise à jour : 22/10/2026
 - ACTIF : messages aux marques de vêtements : laisser la marque décider des pièces, kit média SANS tarifs, ne pas citer les couleurs de la DA, ton émotionnel et inspirant sur le personal brand. Accord pour contacter toutes les marques citées (y compris COS). Émilie enverra d'autres marques à chercher (Instagram / email).
 
 - ACTIF (22/10) : **ne JAMAIS modifier le kit média Canva d'Émilie** (ni l'original ni les copies : elle refuse toute modification). Pour envoyer sans tarifs, c'est elle qui exporte les pages 1 à 6 et 11. Deux copies inutiles existent dans son Canva (non enregistrées).
+
+## ÉMIA Academy / THE ÉMIA SOCIETY (22/10/2026)
+- ACTIF : abonnement **19 €/mois** sans engagement, encaissé par **Stripe** (site émia.com). But : 160 membres = ~3 040 €/mois stables.
+- ACTIF : tout dans UN seul endroit : groupe Telegram avec sujets (mission du matin, point de 20h, mes victoires, entraide, bibliothèque, lives) en phase 1 ; appli ou plateforme (ex. Skool) vers 50 membres.
+- ACTIF : contenu = livret PDF mensuel à cocher, Guide ÉMIA (ebook), vocal du matin (60 s) + tâche du jour, point de 20h (sondage/message), communauté, 2 lives/mois (bilan + thème), espace « Mes victoires » (témoignages), templates + fonds d'écran, jokers + binôme. Programme 2027 en 12 mois (thèmes dans le doc Drive « ÉMIA ACADEMY »).
+- ACTIF : les 4 ebooks continuent de se vendre à côté (ebooks = avancer seule, Society = avancer ensemble). Idée à valider : -20 % ebooks pour les membres ; 1er mois Society à 9 € pour les acheteuses d'ebook.
+- ACTIF : masterclass puis retraites plus tard (retraite : vérifier l'immatriculation Atout France ou passer par un organisateur autorisé).
+- Légal : jamais de séances de sport guidées, plan sport/alimentation personnalisé, ni promesse de santé/poids ; mentions « programme d'habitudes, ne remplace pas un avis médical, je ne suis ni coach sportive ni diététicienne ».
