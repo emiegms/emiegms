@@ -124,3 +124,12 @@
 - Cadeau annoncé en story le 13/10 : Défi Cheveux offert avec Pack ÉMIA Method ET ÉMIA Body Home (49 €). Lien Body Home manquant.
 - Reel concours Steel : sort **mercredi 14/10 à 18h** sur Instagram (avant : 12h). Montage à finir.
 - Reel lash lift : montage à finir, poste dès que fini (13/10).
+
+## Point équipe du 22/10/2026 (14 agents)
+- Constat unanime : **aucun chiffre réel** (ventes depuis le 20/10, résultats des 3 sondages, gagnante Steel, liste email) et **lien du pack 70 € non vérifié** (https://5f5e-contact.systeme.io/51b822e3). Sans lien actif = 0 vente. Il reste ~706 € (≈ 10 packs) pour atteindre 1 000 € avant le 31/10.
+- Plan B (Money-Cash) : si le CA cumulé < 550 € le 26/10, offre flash limitée à 5 places (call express payant), sans solde.
+- HOME20 (-20 % sur Home = 39,20 €) : 24 h réelles, jamais prolongé ; seulement en DM aux filles chaudes, pas en story publique.
+- Collabs emiegms : Vanessa Wu = « plus de budget influence » (gifting seul) ; Influnity = ne paie pas ; Cuisevo = vidéos gratuites, à écarter. **Kérastase (agence Sparkle, 21/10) = campagne « Genesis Gifting » : « réalise une vidéo et tente de remporter une des 2 gammes » = concours non payé, formulaire d'inscription. Ce n'est PAS une collab rémunérée.** Relance groupée des marques : vendredi 23/10 11h.
+- Lecture des sondages (Forain) : choix « guide du matin » + « suivi jour par jour » = application ; « endroit entre girls » = THE ÉMIA SOCIETY ; « plan complet A à Z » = gros ebook ; « je paierais » ≥ 30 % des votants = signal, < 15 % = stop ; minimum 100 votes. Pari n°1 : pack Black Friday du 27/11 avec liste d'attente (30 inscrites au 29/10).
+- À trancher par QCM : la phrase « Choisis-toi. Encore. » (stop le 13/10 vs signature choisie 12/10 et 20/10). Tant que non tranché : fin de contenu neutre.
+- Fichier unique des décisions à créer : `memoire/decisions.md` (statuts actif / périmé / à confirmer).
