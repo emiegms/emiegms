@@ -133,3 +133,13 @@
 - Lecture des sondages (Forain) : choix « guide du matin » + « suivi jour par jour » = application ; « endroit entre girls » = THE ÉMIA SOCIETY ; « plan complet A à Z » = gros ebook ; « je paierais » ≥ 30 % des votants = signal, < 15 % = stop ; minimum 100 votes. Pari n°1 : pack Black Friday du 27/11 avec liste d'attente (30 inscrites au 29/10).
 - À trancher par QCM : la phrase « Choisis-toi. Encore. » (stop le 13/10 vs signature choisie 12/10 et 20/10). Tant que non tranché : fin de contenu neutre.
 - Fichier unique des décisions à créer : `memoire/decisions.md` (statuts actif / périmé / à confirmer).
+
+
+## Démarchage marques de vêtements (22/10/2026) — @emiegms
+- Émilie veut démarcher des marques par mail (rémunéré, long terme). Liste reçue : Blakely, Kookaï, Gina Tricot, Bad Icon, Rug Editorial, Marches.ru, Temu + Inserif (housse PC) + Paréidolie (soins Lyon).
+- **Blakely** : brouillon Gmail créé (EN) vers brand@blakelyclothing.com. NON envoyé.
+- Kookaï : lien « Contact Presse » sur kookai.fr/pages/contact-1 (relationclient@ = SAV, à ne pas utiliser). Gina Tricot : équipe influence en Suède. Bad Icon, Inserif, Rug Editorial, Marches.ru : aucun email trouvé. Paréidolie : tél. 07 63 87 58 94, pareidolie-lyon.com.
+- **Temu : on passe** (ultra fast fashion, interdiction pub influenceurs au 01/01/2027).
+- Blocage : session cloud sans accès aux sites des marques, Chrome non branché. **À refaire dans une discussion connectée à Chrome** (prompt copié-collé fourni à Émilie).
+- Mail type : 438 713 vues IG, 445,6K vues TikTok, 57 % femmes, 48 % France, 70 % 18-34 ans. Kit EN : canva.link/kjlffdykyfq92is.
+- Sondages canal (21/10) : résultats toujours à envoyer par captures.
