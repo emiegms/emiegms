@@ -37,3 +37,12 @@ Statuts : ACTIF · PÉRIMÉ · À CONFIRMER. Dernière mise à jour : 22/10/2026
 - ACTIF : les 4 ebooks continuent de se vendre à côté (ebooks = avancer seule, Society = avancer ensemble). Idée à valider : -20 % ebooks pour les membres ; 1er mois Society à 9 € pour les acheteuses d'ebook.
 - ACTIF : masterclass puis retraites plus tard (retraite : vérifier l'immatriculation Atout France ou passer par un organisateur autorisé).
 - Légal : jamais de séances de sport guidées, plan sport/alimentation personnalisé, ni promesse de santé/poids ; mentions « programme d'habitudes, ne remplace pas un avis médical, je ne suis ni coach sportive ni diététicienne ».
+
+## ÉMIA ACADEMY : mise à jour 22/10/2026 (remplace les points précédents)
+- Binôme : SUPPRIMÉ. Jokers : SUPPRIMÉS. Seul un rappel : « pas parfaite, régulière ».
+- Lancement : 1er novembre 2026. Prix : 19 €/mois. Programme : 14 mois (nov 2026 → déc 2027).
+- Membres : -20 % sur les ebooks. Retraites : plus tard, on verra.
+- Inscription : bouton sur émia.com → lien de paiement Stripe. Liste de pré-inscription avant le 1/11.
+- Lieu des membres : Telegram (vocaux, lives, templates, fonds d'écran, liens). Migration appli vers ~50 membres si besoin.
+- Pilotage Émilie : base Notion « ÉMIA ACADEMY · Pilotage » (14 lignes, cases à cocher).
+- Agenda : lancement 1/11 ; enregistrement 7 vocaux 25/10.
